@@ -13,7 +13,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
  [link to Google!](http://google.com)
  
  code
-` code example 
+` code example `
  
 
  ### Creating a table
