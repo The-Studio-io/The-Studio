@@ -12,6 +12,9 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 ## How to link
  [link to Google!](http://google.com)
  
+ code
+` code example 
+ 
 
  ### Creating a table
 
